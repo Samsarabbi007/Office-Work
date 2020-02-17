@@ -1,0 +1,18 @@
+
+Tracing route to google.com [172.217.194.113]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     6 ms     6 ms     3 ms  hq-access-rtr-01.dotinternetbd.com [59.153.100.17] 
+  3     2 ms     4 ms    <1 ms  172.16.16.61 
+  4     2 ms     1 ms     2 ms  59.153.100.109 
+  5     2 ms     1 ms     2 ms  43.224.113.69 
+  6     4 ms     3 ms     2 ms  103.15.40.112 
+  7    76 ms    52 ms    52 ms  103.15.41.174 
+  8    55 ms    54 ms    54 ms  72.14.210.204 
+  9    52 ms    51 ms    54 ms  108.170.254.227 
+ 10    54 ms    52 ms    51 ms  216.239.49.74 
+ 11    55 ms    52 ms    52 ms  72.14.233.235 
+ 12    53 ms    52 ms    58 ms  108.170.231.23 
+ 13     *        *        *     Request timed out.
+ 14  
